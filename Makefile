@@ -1,0 +1,1 @@
+gcc -o start work_on.c the_shell.c sig_handlers.c pwd.c prints_prompt.c pinfo.c ls.c exec.c echo.c cd.c -I.
